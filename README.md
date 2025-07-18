@@ -57,7 +57,7 @@ login("your_huggingface_token_here")
 Set save directory and base model:
 ```python
 save_directory = "yourname/llama3b-math-plrs"
-model_name = "meta-llama/Meta-Llama-3-8B-Instruct"
+model_name = "meta-llama/Meta-Llama-3-1B-Instruct"
 ```
 
 ---
